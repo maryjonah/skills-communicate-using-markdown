@@ -11,3 +11,8 @@
 def helloWorld():
     print("hello world!")
 ```
+
+### Communicate with Markdown - Add Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
